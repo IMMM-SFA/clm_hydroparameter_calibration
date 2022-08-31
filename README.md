@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7039118.svg)](https://doi.org/10.5281/zenodo.7039118)
+
 # Yan et al 2022
 
 **A benchmark Community Land Model Version 5 (CLM5) large ensemble dataset to support hydrological applications over the Conterminous United States.**
