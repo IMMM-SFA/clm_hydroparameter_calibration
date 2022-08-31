@@ -79,5 +79,5 @@ im3-clm
 
 
 ## Reproduce the Figures
-TODO
 
+`default.m`, `ensemble.m`, `SA_plot.m`: matlab script example used to produce default parameter performance figure, ensemble parameter performance figure, and sensitivity analysis figure
